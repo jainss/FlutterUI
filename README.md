@@ -1,6 +1,6 @@
-# project1
+## Flutter UI 
 
-A new Flutter project.
+A new flutter UI.
 
 ![WhatsApp Image 2021-08-07 at 1 10 25 PM](https://user-images.githubusercontent.com/59283222/129087650-cdea3467-674d-4018-a4df-48d7dea5deef.jpeg)
 
